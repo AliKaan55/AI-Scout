@@ -1,0 +1,17 @@
+﻿{
+  "name": "AI-Scout: Akıllı Transfer Danışmanı",
+  "short_name": "AI-Scout",
+  "description": "Yapay zeka destekli futbolcu analiz ve öneri platformu.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d32f2f",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/33/33736.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

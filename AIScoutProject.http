@@ -1,0 +1,6 @@
+@AIScoutProject_HostAddress = http://localhost:5079
+
+GET {{AIScoutProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
