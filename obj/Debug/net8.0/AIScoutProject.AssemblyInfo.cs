@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIScoutProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04cf81bcc3d1e10be721d6434750064bb2eedc51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5261cfd592f25902eb2e92f7a094115cb8d6937c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIScoutProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIScoutProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
