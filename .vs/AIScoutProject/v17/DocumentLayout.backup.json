@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\aiscout.business\\concrete\\scoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:aiscout.business\\concrete\\scoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\aiscout.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:aiscout.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\controllers\\scoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:controllers\\scoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\aiscout.core\\entities\\scoutrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\aiscout.core\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:aiscout.core\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\aiscout.business\\concrete\\scoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:aiscout.business\\concrete\\scoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|c:\\users\\ali kaan\\desktop\\visual studio\\aiscoutproject\\aiscout.business\\abstract\\iscoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477671A-D7F4-4548-92D7-D33982B9766B}|AIScoutProject.csproj|solutionrelative:aiscout.business\\abstract\\iscoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +55,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScoutManager.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Business\\Concrete\\ScoutManager.cs",
-              "RelativeDocumentMoniker": "AIScout.Business\\Concrete\\ScoutManager.cs",
-              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Business\\Concrete\\ScoutManager.cs",
-              "RelativeToolTip": "AIScout.Business\\Concrete\\ScoutManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:45:01.059Z",
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "Dockerfile.txt",
+              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\Dockerfile.txt",
+              "RelativeToolTip": "Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-28T12:51:46.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-28T11:38:44.174Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAACAAAAAAAAAAAAAtwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-28T12:30:04.858Z",
               "EditorCaption": ""
             },
             {
@@ -78,23 +86,21 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:37:42.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:29:42.151Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AIScout.Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Data\\AppDbContext.cs",
-              "RelativeToolTip": "AIScout.Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "ScoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\Controllers\\ScoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScoutController.cs",
+              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\Controllers\\ScoutController.cs",
+              "RelativeToolTip": "Controllers\\ScoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:37:12.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:28:44.417Z"
             },
             {
               "$type": "Document",
@@ -104,10 +110,9 @@
               "RelativeDocumentMoniker": "AIScout.Core\\Entities\\ScoutRecommendation.cs",
               "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Core\\Entities\\ScoutRecommendation.cs",
               "RelativeToolTip": "AIScout.Core\\Entities\\ScoutRecommendation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:34:54.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:28:34.633Z"
             },
             {
               "$type": "Document",
@@ -117,10 +122,33 @@
               "RelativeDocumentMoniker": "AIScout.Core\\Entities\\Player.cs",
               "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Core\\Entities\\Player.cs",
               "RelativeToolTip": "AIScout.Core\\Entities\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:34:41.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:28:26.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoutManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Business\\Concrete\\ScoutManager.cs",
+              "RelativeDocumentMoniker": "AIScout.Business\\Concrete\\ScoutManager.cs",
+              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Business\\Concrete\\ScoutManager.cs",
+              "RelativeToolTip": "AIScout.Business\\Concrete\\ScoutManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:28:12.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Business\\Abstract\\IScoutService.cs",
+              "RelativeDocumentMoniker": "AIScout.Business\\Abstract\\IScoutService.cs",
+              "ToolTip": "C:\\Users\\Ali Kaan\\Desktop\\Visual Studio\\AIScoutProject\\AIScout.Business\\Abstract\\IScoutService.cs",
+              "RelativeToolTip": "AIScout.Business\\Abstract\\IScoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:28:10.771Z"
             }
           ]
         }

@@ -139,3 +139,4 @@ C:\Users\Ali Kaan\Desktop\Visual Studio\AIScoutProject\obj\Debug\net8.0\AIScoutP
 C:\Users\Ali Kaan\Desktop\Visual Studio\AIScoutProject\obj\Debug\net8.0\ref\AIScoutProject.dll
 C:\Users\Ali Kaan\Desktop\Visual Studio\AIScoutProject\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Ali Kaan\Desktop\Visual Studio\AIScoutProject\bin\Debug\net8.0\AIScoutProject.staticwebassets.runtime.json
+C:\Users\Ali Kaan\Desktop\Visual Studio\AIScoutProject\obj\Debug\net8.0\AIScoutProject.sourcelink.json
